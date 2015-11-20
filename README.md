@@ -10,3 +10,10 @@ Only listing the primary sources.
 http://natashatherobot.com/
 
 
+## External sources for some more playgrounds
+
+https://github.com/nettlep/learn-swift
+
+https://github.com/danielpi/Swift-Playgrounds/tree/master/Swift-Playgrounds
+
+https://github.com/corinnekrych/swift
